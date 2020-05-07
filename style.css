@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    margin: 25px;
+}
+
+#griglia {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+.quadrato {
+    width: 100px;
+    height: 100px;
+    float: left;
+    display: flex;
+    border: 1px solid black;
+}
+
+.quadrato p {
+    margin: auto;
+    font-size: 48px;
+}
+
+.color-grenn {
+    color: lightgreen;
+}
+
+.color-red {
+    color: red;
+}
